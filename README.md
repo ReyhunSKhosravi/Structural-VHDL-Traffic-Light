@@ -44,7 +44,7 @@ To simulate this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/VHDL-Traffic-Light-Controller.git
+    git clone https://github.com/ReyhunSKhosravi/VHDL-Traffic-Light-Controller.git
     ```
 2. Open your favorite VHDL simulator (e.g., ModelSim, GHDL).
 
