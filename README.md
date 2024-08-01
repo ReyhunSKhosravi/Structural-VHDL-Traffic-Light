@@ -121,6 +121,8 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - **Email**: [ReyhunSKhosravi@gmail.com](mailto:ReyhunSKhosravi@gmail.com)
 - **GitHub**: [ReyhunSKhosravi](https://github.com/ReyhunSKhosravi)
+- **LinkedIn**: [Reyhaneh Khosravi](https://www.linkedin.com/in/reyhaneh-khosravi-1465ba258/)
+
 
 Thank you for checking out the VHDL Traffic Light Controller project! I hope it helps you in your FPGA development and digital logic design journey. Happy coding! 🚀
 
